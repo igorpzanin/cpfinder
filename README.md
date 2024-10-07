@@ -1,16 +1,29 @@
-# cepfinder
+# CPF Finder
 
-A new Flutter project.
+Este é um aplicativo Flutter que permite consultar endereços a partir de um CEP.
 
-## Getting Started
+## Pré-requisitos
 
-This project is a starting point for a Flutter application.
+- Flutter SDK instalado (recomenda-se a versão mais recente)
+- Um emulador Android ou dispositivo físico para testes
 
-A few resources to get you started if this is your first Flutter project:
+## Instalação
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/igorpzanin/cpfinder.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd my_flutter_app
+
+3. Instale as dependências:
+
+   ```bash
+   flutter pub get
+
+4. Execute o aplicativo
+
+   ```bash
+   flutter run
+
