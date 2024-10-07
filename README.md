@@ -15,7 +15,7 @@ Este é um aplicativo Flutter que permite consultar endereços a partir de um CE
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd my_flutter_app
+   cd cpfinder
 
 3. Instale as dependências:
 
