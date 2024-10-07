@@ -1,4 +1,4 @@
-# CPF Finder
+# Fast Location
 
 Este é um aplicativo Flutter que permite consultar endereços a partir de um CEP.
 
@@ -11,11 +11,11 @@ Este é um aplicativo Flutter que permite consultar endereços a partir de um CE
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/igorpzanin/cpfinder.git
+   git clone https://github.com/igorpzanin/fastLocation.git
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd cpfinder
+   cd fastLocation
 
 3. Instale as dependências:
 
