@@ -1,0 +1,24 @@
+name: cepfinder
+description: Um aplicativo para consulta de endereços via CEP.
+publish_to: 'none' # Remove este campo se você quiser publicar o aplicativo
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+  flutter: ">=2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  provider: ^6.0.0
+  shared_preferences: ^2.0.0
+  geolocator: ^13.0.1
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
